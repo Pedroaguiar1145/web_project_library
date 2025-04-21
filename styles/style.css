@@ -88,7 +88,7 @@
   background-image: url("../images/staff_picks_background.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   padding: 100px 0 140px;
   justify-items: center;
 }
@@ -117,6 +117,7 @@
   margin-top: 68px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
   justify-content: center;
   flex-wrap: wrap;
   gap: 40px;
