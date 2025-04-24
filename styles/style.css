@@ -336,7 +336,7 @@
 
 .footer {
   box-sizing: border-box;
-  background-color: #000000;
+  background-color: #1f1f1f;
   color: #fff;
   padding: 60px 80px;
 }
@@ -383,6 +383,7 @@
   text-decoration: none;
   display: flex;
   column-gap: 10px;
+  align-items: center;
 }
 
 .footer__social-icon {
